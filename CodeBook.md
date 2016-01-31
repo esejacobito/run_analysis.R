@@ -1,4 +1,4 @@
-Data
+**Data**
 
 The downloaded dataset includes the following files:
 
@@ -30,7 +30,7 @@ train/Inertial Signals/body_acc_x_train.txt, the body acceleration signal obtain
 train/Inertial Signals/body_gyro_x_train.txt, the angular velocity vector measured by the gyroscope for each window sample. The units are radians/second
 
 
-Variables
+**Variables**
 
 For each record in the dataset, the following are provided:
 
@@ -41,7 +41,7 @@ Its activity label
 An identifier of the subject who carried out the experiment
 
 
-Transformations
+**Transformations**
 
 Training and the test sets were merged to create one dataset
 Measurements on the mean and standard deviation for each measurement were extracted
